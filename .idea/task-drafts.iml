@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/laravel/pint" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/spatie/backtrace" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/spatie/laravel-ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/spatie/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/spatie/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/video_chat_webtc_laravel_vue/vendor/symfony/mime" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

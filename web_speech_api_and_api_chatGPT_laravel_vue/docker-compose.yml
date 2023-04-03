@@ -1,0 +1,13 @@
+version: '2'
+services:
+  php-apache-dev:
+    image: 'webdevops/php-apache-dev:8.2'
+    volumes:
+      - './:/app'
+    ports:
+      - '80:80'
+    environment:
+      - PHP_DISPLAY_ERRORS=1
+      - extension
+      - 'WEB_PHP_SOCKET=127.0.0.1:9000'
+      - WEB_DOCUMENT_ROOT=/app/public
