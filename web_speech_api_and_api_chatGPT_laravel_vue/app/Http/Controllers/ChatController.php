@@ -10,7 +10,7 @@ class ChatController extends Controller
     {
 // Установите URL-адрес API и токен доступа
         $url = "https://api.openai.com/v1/chat/completions";
-        $token = "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";
+        $token = "";
 
 // Установите параметры запроса
         $data = array(
